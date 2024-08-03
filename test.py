@@ -1,1 +1,1 @@
-print("welcome V10")
+print(welcome V10")
